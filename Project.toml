@@ -1,6 +1,6 @@
 name = "spirv2clc_jll"
 uuid = "f0274c0c-8c8a-59f1-85b7-f7d60330c5fb"
-version = "0.2.0+0"
+version = "0.2.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
