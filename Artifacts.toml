@@ -1,160 +1,160 @@
 [[spirv2clc]]
 arch = "aarch64"
-git-tree-sha1 = "fc657b725b236d980d29e4b7b02bd123de1b717a"
+git-tree-sha1 = "906ed0d2021e034846714401543ddb2e2b72fbb0"
 os = "macos"
 
     [[spirv2clc.download]]
-    sha256 = "a16a4addfb0ba1a00a7522d0a295d747c36b81b3f16c432fe9608d5546687cb9"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "3fb1afd7492975df5aa3126535d9f9fc8dae52579c9c4bbf4e53f036f29454ef"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.aarch64-apple-darwin.tar.gz"
 [[spirv2clc]]
 arch = "aarch64"
-git-tree-sha1 = "ff8687788f39a7b68b68f1e730d0116581db0990"
+git-tree-sha1 = "17a985331684aa639863093d02149a2226b08acd"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "64a07989dea79ae988fab28a7225c4980a3c84da72add7f6188a2c501c883716"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "6d557c025e14393a131c67f758cdc251f15322bb134d0e6b6bb15803491848c3"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.aarch64-linux-gnu.tar.gz"
 [[spirv2clc]]
 arch = "aarch64"
-git-tree-sha1 = "ae1da37bd4ca682d7224f4569e3879dba425d759"
+git-tree-sha1 = "df65262a81d7a81d09442e2ea82e7bf54eb4b9e9"
 libc = "musl"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "1fc52704c541c964b06839d2d71ef5e0239d8206e1e14dddf40a68540f5ab2d0"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.aarch64-linux-musl.tar.gz"
+    sha256 = "8c0ce6f5687d2b2246bcfb8f886cff4d3cd565ed12c76924f2ee91f29978cca4"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.aarch64-linux-musl.tar.gz"
 [[spirv2clc]]
 arch = "aarch64"
-git-tree-sha1 = "b17ac2b5e90af634d92f4075a467901a6bab5a92"
+git-tree-sha1 = "a8709d82113e18a013f8b8025587be045a57d9d5"
 os = "freebsd"
 
     [[spirv2clc.download]]
-    sha256 = "263fc51661504305d32cb5247ab2dfa3d51ae089a1cfe0291107e8b69cc05266"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "ad526a0f20763c614ad9071442d5334b6b722eb575ccdd33f40f4f63526a2652"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.aarch64-unknown-freebsd.tar.gz"
 [[spirv2clc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "71993f9d42aa87a9c0e9772e5994a7b14c236a02"
+git-tree-sha1 = "08ffd8742bf88089c733bd5f67bd464117d8d1f0"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "61fbdaec32c377948eae4325db0f3b1d03894370abdc506b01c5b0165b5d4c2a"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "036890d3992610a827cc95e0073d1076a91d206bc63747b51a585fdc21f378c6"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.armv6l-linux-gnueabihf.tar.gz"
 [[spirv2clc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "af021c706ab2fb236999902330278a365aad92fc"
+git-tree-sha1 = "226cca6f17a346d84e66e980a417ef2710dbdd46"
 libc = "musl"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "776cc877ef2ad47b3b54cbbe88b8c6c723d2fdc170676317cdd564230d3fbafa"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "34dcaab6c14ae4cfa655df951cda64ffbbc69aeefa0eabf372d7d534f99772c7"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.armv6l-linux-musleabihf.tar.gz"
 [[spirv2clc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "63ce2d2847978e4cce67a025b9757908e2121357"
+git-tree-sha1 = "2c711a0625e5eccecaad487f97409b9eb9f7c280"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "33ef91d109676c11260a70ba7f0f3cc3930bc2dbe0a97ddadbe5d4e9c2c2883f"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7a7a08193ecf4af49b604fa979d3d59ac69cfa5ba7c8f3436f93fc1d46e0f64b"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.armv7l-linux-gnueabihf.tar.gz"
 [[spirv2clc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f6ba5e234dac7352a95954c4deee8747f0dc6872"
+git-tree-sha1 = "ea8f67bb9729bbd036102d596f80544c81a70d20"
 libc = "musl"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "cfd18c0a91519f70021123ef7a65ea4ecbbaeb2e796f9585b5d82befac3b6f30"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "eb126e99b147c396e798eb3b0310bab2c3382ceac61ec05ea96d96e157ed9ae3"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.armv7l-linux-musleabihf.tar.gz"
 [[spirv2clc]]
 arch = "i686"
-git-tree-sha1 = "03df9b1ad78e5427f51207376ec22f111dc9a06c"
+git-tree-sha1 = "8ac8582f9abfed1d61babed50fbcbfc732ad8eb1"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "efadd806b2414b6970f9db3ba43e2de917a52d21efbed140c67fa664f2a1f19f"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.i686-linux-gnu.tar.gz"
+    sha256 = "ac548d05ff29f3ecfd5134fac0d1b431f1dd98a8544ee226ce77b5da7a550d88"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.i686-linux-gnu.tar.gz"
 [[spirv2clc]]
 arch = "i686"
-git-tree-sha1 = "ec14103bdbaf86dda3c5832d5336255bcf4e685c"
+git-tree-sha1 = "66bc6d99c19b6bc6a49206473a430cb6f05eacbb"
 libc = "musl"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "c66dfd091edef658a5b4de23219e8327daff140cd381f40e1b6161b0020c5a2a"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.i686-linux-musl.tar.gz"
+    sha256 = "229807464fb67e1791665c624f56c0d01a206a256baca865b8d888534408a1d3"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.i686-linux-musl.tar.gz"
 [[spirv2clc]]
 arch = "i686"
-git-tree-sha1 = "62dff708bbe143d99b983c1c0d598d8c1613c817"
+git-tree-sha1 = "fa87d2ec990e8f377f5d5122a8bdac7b60c96bad"
 os = "windows"
 
     [[spirv2clc.download]]
-    sha256 = "689725d3cf55e909042292f185c83666fe1793cade07bda2df7359d9c9766efc"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.i686-w64-mingw32.tar.gz"
+    sha256 = "4423406330779d216f39681f0bde218ccb2d47af265168075173abbda59347fe"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.i686-w64-mingw32.tar.gz"
 [[spirv2clc]]
 arch = "powerpc64le"
-git-tree-sha1 = "f92d6354b0e7266fcb7917df2f92f46cba25fa5b"
+git-tree-sha1 = "604bcfd75e2e3d55c48c1ff70b3860c4cf631d7e"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "0e734c547e0302f9aa43b38e80354916d6e61b212422a40b8987814569137558"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "edbe61541a597d095edd31af1ced171b5f3568934fd2316dea7636ec475d69d8"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.powerpc64le-linux-gnu.tar.gz"
 [[spirv2clc]]
 arch = "riscv64"
-git-tree-sha1 = "d81851f2e5c77c5850e11469fb17d135ee63cca1"
+git-tree-sha1 = "af07c062baf41e93330a0611b32e868ea2dace3e"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "fcd8ad150951e31ef30db74321eb4a99a80dd8209945db3dc062aad52fde0ed8"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.riscv64-linux-gnu.tar.gz"
+    sha256 = "7c9df203f903759e401ba258286755612cf17a436305a5e90d65101e03bc27b0"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.riscv64-linux-gnu.tar.gz"
 [[spirv2clc]]
 arch = "x86_64"
-git-tree-sha1 = "ae05f175ea34a2a07a420dc36e9e8d571cb0cec7"
+git-tree-sha1 = "7f800f940a032f991f597deec42c1264b04cd9ed"
 os = "macos"
 
     [[spirv2clc.download]]
-    sha256 = "1d916104483593ee41ad8943c4ee772466132ce8dea4b9032ed59aba19a72b6a"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "346b2f2ec222a1d84747c4432291630f79a53ad5b809082c78a930ab849b2963"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.x86_64-apple-darwin.tar.gz"
 [[spirv2clc]]
 arch = "x86_64"
-git-tree-sha1 = "d15ca791226126081b1648fa193407b7a40c53ae"
+git-tree-sha1 = "ba0716967fd2cb60207910a1a115f8c95a50ed4a"
 libc = "glibc"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "356ab69c3d876674dcdd82520bdb58294c4ac5927f57002f8085ef6f3430d180"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "42e4b8e33892f5686f3389b5d502d316cb7f6a1d4ca63e97e44a0eae2680e205"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.x86_64-linux-gnu.tar.gz"
 [[spirv2clc]]
 arch = "x86_64"
-git-tree-sha1 = "a1dd4c0520f17bc47fcd7b3453453fe9221429d1"
+git-tree-sha1 = "599b95674bb615931e6ceec5dd591126aa7bc8b1"
 libc = "musl"
 os = "linux"
 
     [[spirv2clc.download]]
-    sha256 = "3a604da14cc91c43e04069a5845aa7958e3da8460e39386582d0b6000f59637d"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.x86_64-linux-musl.tar.gz"
+    sha256 = "9542f58c48fb4ef0caa1fe332bbd723c1c6c79e1b09e245b8862861a551059a4"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.x86_64-linux-musl.tar.gz"
 [[spirv2clc]]
 arch = "x86_64"
-git-tree-sha1 = "bbf35ad1cb0f055e0d96b2db0868c6a4531840dc"
+git-tree-sha1 = "e6d0243cfd39109ca451e5dd651a23394bb46211"
 os = "freebsd"
 
     [[spirv2clc.download]]
-    sha256 = "b9f6c6e94b57290606332d5814e4cc6a6a0af5aa1469de9f9e6efdb95d56eadf"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2629d118053f373efeb7a48d39752644e76ca2cc563f2f8f5b99a6ce70523d64"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.x86_64-unknown-freebsd.tar.gz"
 [[spirv2clc]]
 arch = "x86_64"
-git-tree-sha1 = "bc04960cdf75d112857760598e3a3dcd08c466bf"
+git-tree-sha1 = "e7d6411f7dc7c075a38b0c23f97b18776a3351ec"
 os = "windows"
 
     [[spirv2clc.download]]
-    sha256 = "414042fd22826289b0c3f9d73271c94b720a902a1a3ad27d94850c4f034c369e"
-    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.2+0/spirv2clc.v0.2.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "716c44d2b293c59dfdf932d0d4a70b5e2ec2deff15e965c0cf9a43241e9f1c7c"
+    url = "https://github.com/JuliaBinaryWrappers/spirv2clc_jll.jl/releases/download/spirv2clc-v0.2.3+0/spirv2clc.v0.2.3.x86_64-w64-mingw32.tar.gz"
